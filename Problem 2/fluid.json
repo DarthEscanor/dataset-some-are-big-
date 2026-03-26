@@ -1,0 +1,28 @@
+{
+  "fluid_drag": [
+    {
+      "height_above_bottom_m": 0,
+      "resistivity_s_per_m": 2.0
+    },
+    {
+      "height_above_bottom_m": 378,
+      "resistivity_s_per_m": 1.8
+    },
+    {
+      "height_above_bottom_m": 756,
+      "resistivity_s_per_m": 1.6
+    },
+    {
+      "height_above_bottom_m": 1134,
+      "resistivity_s_per_m": 1.4
+    },
+    {
+      "height_above_bottom_m": 1512,
+      "resistivity_s_per_m": 1.2
+    },
+    {
+      "height_above_bottom_m": 1890,
+      "resistivity_s_per_m": 1.0
+    }
+  ]
+}

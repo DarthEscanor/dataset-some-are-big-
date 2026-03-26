@@ -1,0 +1,9 @@
+{
+  "double_slit_interference": {
+    "slit_separation_m": 0.0005,
+    "wavelength_m": 6e-07,
+    "screen_distance_m": 1.0,
+    "fringe_spacing_m": 0.0015,
+    "max_intensity_W_per_m2": 0.67
+  }
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "date": "0001-01-07",
+    "Mars_dist": 0.808765,
+    "Jupiter_dist": 5.292752,
+    "Saturn_dist": 10.413085
+  },
+  {
+    "date": "0001-01-21",
+    "Mars_dist": 0.803275,
+    "Jupiter_dist": 5.294139,
+    "Saturn_dist": 10.413407
+  },
+  {
+    "date": "0001-02-07",
+    "Mars_dist": 0.797487,
+    "Jupiter_dist": 5.293482,
+    "Saturn_dist": 10.413683
+  },
+  {
+    "date": "0001-02-21",
+    "Mars_dist": 0.798637,
+    "Jupiter_dist": 5.297522,
+    "Saturn_dist": 10.414061
+  },
+  {
+    "date": "0001-03-07",
+    "Mars_dist": 0.803113,
+    "Jupiter_dist": 5.297885,
+    "Saturn_dist": 10.409973
+  },
+  {
+    "date": "0001-03-21",
+    "Mars_dist": 0.808762,
+    "Jupiter_dist": 5.297784,
+    "Saturn_dist": 10.40714
+  },
+  {
+    "date": "0001-04-07",
+    "Mars_dist": 0.818715,
+    "Jupiter_dist": 5.298731,
+    "Saturn_dist": 10.402583
+  },
+  {
+    "date": "0001-04-21",
+    "Mars_dist": 0.825058,
+    "Jupiter_dist": 5.299571,
+    "Saturn_dist": 10.400577
+  },
+  {
+    "date": "0001-05-07",
+    "Mars_dist": 0.829399,
+    "Jupiter_dist": 5.296024,
+    "Saturn_dist": 10.401156
+  },
+  {
+    "date": "0001-05-21",
+    "Mars_dist": 0.828516,
+    "Jupiter_dist": 5.294661,
+    "Saturn_dist": 10.401207
+  },
+  {
+    "date": "0001-06-07",
+    "Mars_dist": 0.824633,
+    "Jupiter_dist": 5.292514,
+    "Saturn_dist": 10.405376
+  },
+  {
+    "date": "0001-06-21",
+    "Mars_dist": 0.818404,
+    "Jupiter_dist": 5.2915,
+    "Saturn_dist": 10.408379
+  },
+  {
+    "date": "0001-07-07",
+    "Mars_dist": 0.810561,
+    "Jupiter_dist": 5.293286,
+    "Saturn_dist": 10.412073
+  },
+  {
+    "date": "0001-07-21",
+    "Mars_dist": 0.803342,
+    "Jupiter_dist": 5.292386,
+    "Saturn_dist": 10.414236
+  },
+  {
+    "date": "0001-08-07",
+    "Mars_dist": 0.799921,
+    "Jupiter_dist": 5.294866,
+    "Saturn_dist": 10.415088
+  },
+  {
+    "date": "0001-08-21",
+    "Mars_dist": 0.797201,
+    "Jupiter_dist": 5.295743,
+    "Saturn_dist": 10.412807
+  },
+  {
+    "date": "0001-09-07",
+    "Mars_dist": 0.803867,
+    "Jupiter_dist": 5.298116,
+    "Saturn_dist": 10.410931
+  },
+  {
+    "date": "0001-09-21",
+    "Mars_dist": 0.81009,
+    "Jupiter_dist": 5.298563,
+    "Saturn_dist": 10.405215
+  },
+  {
+    "date": "0001-10-07",
+    "Mars_dist": 0.820879,
+    "Jupiter_dist": 5.299122,
+    "Saturn_dist": 10.402297
+  },
+  {
+    "date": "0001-10-21",
+    "Mars_dist": 0.824382,
+    "Jupiter_dist": 5.296761,
+    "Saturn_dist": 10.400074
+  },
+  {
+    "date": "0001-11-07",
+    "Mars_dist": 0.828622,
+    "Jupiter_dist": 5.295432,
+    "Saturn_dist": 10.401742
+  },
+  {
+    "date": "0001-11-21",
+    "Mars_dist": 0.828492,
+    "Jupiter_dist": 5.2933,
+    "Saturn_dist": 10.402148
+  },
+  {
+    "date": "0001-12-07",
+    "Mars_dist": 0.822332,
+    "Jupiter_dist": 5.292504,
+    "Saturn_dist": 10.406404
+  },
+  {
+    "date": "0001-12-21",
+    "Mars_dist": 0.81718,
+    "Jupiter_dist": 5.292719,
+    "Saturn_dist": 10.407451
+  },
+  {
+    "date": "0002-01-07",
+    "Mars_dist": 0.807486,
+    "Jupiter_dist": 5.293273,
+    "Saturn_dist": 10.413081
+  },
+  {
+    "date": "0002-01-21",
+    "Mars_dist": 0.801893,
+    "Jupiter_dist": 5.292446,
+    "Saturn_dist": 10.415574
+  },
+  {
+    "date": "0002-02-07",
+    "Mars_dist": 0.797938,
+    "Jupiter_dist": 5.29583,
+    "Saturn_dist": 10.414847
+  },
+  {
+    "date": "0002-02-21",
+    "Mars_dist": 0.800111,
+    "Jupiter_dist": 5.297734,
+    "Saturn_dist": 10.414074
+  },
+  {
+    "date": "0002-03-07",
+    "Mars_dist": 0.803374,
+    "Jupiter_dist": 5.29796,
+    "Saturn_dist": 10.409495
+  },
+  {
+    "date": "0002-03-21",
+    "Mars_dist": 0.808586,
+    "Jupiter_dist": 5.300076,
+    "Saturn_dist": 10.407868
+  },
+  {
+    "date": "0002-04-07",
+    "Mars_dist": 0.817593,
+    "Jupiter_dist": 5.297324,
+    "Saturn_dist": 10.404854
+  },
+  {
+    "date": "0002-04-21",
+    "Mars_dist": 0.825537,
+    "Jupiter_dist": 5.296055,
+    "Saturn_dist": 10.400184
+  },
+  {
+    "date": "0002-05-07",
+    "Mars_dist": 0.827981,
+    "Jupiter_dist": 5.294063,
+    "Saturn_dist": 10.399772
+  },
+  {
+    "date": "0002-05-21",
+    "Mars_dist": 0.83112,
+    "Jupiter_dist": 5.295909,
+    "Saturn_dist": 10.403177
+  },
+  {
+    "date": "0002-06-07",
+    "Mars_dist": 0.825788,
+    "Jupiter_dist": 5.293627,
+    "Saturn_dist": 10.40686
+  },
+  {
+    "date": "0002-06-21",
+    "Mars_dist": 0.817437,
+    "Jupiter_dist": 5.292294,
+    "Saturn_dist": 10.408318
+  },
+  {
+    "date": "0002-07-07",
+    "Mars_dist": 0.807397,
+    "Jupiter_dist": 5.292736,
+    "Saturn_dist": 10.412088
+  },
+  {
+    "date": "0002-07-21",
+    "Mars_dist": 0.803737,
+    "Jupiter_dist": 5.292116,
+    "Saturn_dist": 10.414263
+  },
+  {
+    "date": "0002-08-07",
+    "Mars_dist": 0.797654,
+    "Jupiter_dist": 5.29724,
+    "Saturn_dist": 10.413522
+  },
+  {
+    "date": "0002-08-21",
+    "Mars_dist": 0.799206,
+    "Jupiter_dist": 5.29635,
+    "Saturn_dist": 10.412368
+  },
+  {
+    "date": "0002-09-07",
+    "Mars_dist": 0.8014,
+    "Jupiter_dist": 5.297746,
+    "Saturn_dist": 10.408672
+  },
+  {
+    "date": "0002-09-21",
+    "Mars_dist": 0.809307,
+    "Jupiter_dist": 5.298955,
+    "Saturn_dist": 10.405342
+  },
+  {
+    "date": "0002-10-07",
+    "Mars_dist": 0.818694,
+    "Jupiter_dist": 5.298565,
+    "Saturn_dist": 10.402449
+  },
+  {
+    "date": "0002-10-21",
+    "Mars_dist": 0.825237,
+    "Jupiter_dist": 5.297495,
+    "Saturn_dist": 10.400748
+  },
+  {
+    "date": "0002-11-07",
+    "Mars_dist": 0.829012,
+    "Jupiter_dist": 5.294911,
+    "Saturn_dist": 10.401845
+  },
+  {
+    "date": "0002-11-21",
+    "Mars_dist": 0.829714,
+    "Jupiter_dist": 5.29475,
+    "Saturn_dist": 10.400953
+  },
+  {
+    "date": "0002-12-07",
+    "Mars_dist": 0.823388,
+    "Jupiter_dist": 5.294831,
+    "Saturn_dist": 10.406356
+  },
+  {
+    "date": "0002-12-21",
+    "Mars_dist": 0.817563,
+    "Jupiter_dist": 5.293687,
+    "Saturn_dist": 10.408722
+  },
+  {
+    "date": "0003-01-07",
+    "Mars_dist": 0.808365,
+    "Jupiter_dist": 5.294109,
+    "Saturn_dist": 10.412764
+  },
+  {
+    "date": "0003-01-21",
+    "Mars_dist": 0.802257,
+    "Jupiter_dist": 5.292857,
+    "Saturn_dist": 10.415359
+  },
+  {
+    "date": "0003-02-07",
+    "Mars_dist": 0.798308,
+    "Jupiter_dist": 5.293971,
+    "Saturn_dist": 10.413641
+  },
+  {
+    "date": "0003-02-21",
+    "Mars_dist": 0.797111,
+    "Jupiter_dist": 5.296252,
+    "Saturn_dist": 10.413391
+  },
+  {
+    "date": "0003-03-07",
+    "Mars_dist": 0.800889,
+    "Jupiter_dist": 5.297602,
+    "Saturn_dist": 10.410179
+  },
+  {
+    "date": "0003-03-21",
+    "Mars_dist": 0.810441,
+    "Jupiter_dist": 5.299294,
+    "Saturn_dist": 10.406951
+  },
+  {
+    "date": "0003-04-07",
+    "Mars_dist": 0.818823,
+    "Jupiter_dist": 5.296405,
+    "Saturn_dist": 10.402844
+  },
+  {
+    "date": "0003-04-21",
+    "Mars_dist": 0.824297,
+    "Jupiter_dist": 5.298829,
+    "Saturn_dist": 10.403002
+  },
+  {
+    "date": "0003-05-07",
+    "Mars_dist": 0.830853,
+    "Jupiter_dist": 5.295684,
+    "Saturn_dist": 10.39958
+  },
+  {
+    "date": "0003-05-21",
+    "Mars_dist": 0.829404,
+    "Jupiter_dist": 5.293986,
+    "Saturn_dist": 10.401193
+  },
+  {
+    "date": "0003-06-07",
+    "Mars_dist": 0.825788,
+    "Jupiter_dist": 5.291961,
+    "Saturn_dist": 10.404657
+  },
+  {
+    "date": "0003-06-21",
+    "Mars_dist": 0.817974,
+    "Jupiter_dist": 5.290695,
+    "Saturn_dist": 10.408286
+  },
+  {
+    "date": "0003-07-07",
+    "Mars_dist": 0.811171,
+    "Jupiter_dist": 5.293279,
+    "Saturn_dist": 10.41187
+  },
+  {
+    "date": "0003-07-21",
+    "Mars_dist": 0.804138,
+    "Jupiter_dist": 5.293315,
+    "Saturn_dist": 10.415734
+  },
+  {
+    "date": "0003-08-07",
+    "Mars_dist": 0.797519,
+    "Jupiter_dist": 5.293504,
+    "Saturn_dist": 10.416286
+  },
+  {
+    "date": "0003-08-21",
+    "Mars_dist": 0.798939,
+    "Jupiter_dist": 5.294925,
+    "Saturn_dist": 10.412715
+  },
+  {
+    "date": "0003-09-07",
+    "Mars_dist": 0.80364,
+    "Jupiter_dist": 5.297301,
+    "Saturn_dist": 10.408843
+  },
+  {
+    "date": "0003-09-21",
+    "Mars_dist": 0.811275,
+    "Jupiter_dist": 5.299898,
+    "Saturn_dist": 10.406581
+  },
+  {
+    "date": "0003-10-07",
+    "Mars_dist": 0.817724,
+    "Jupiter_dist": 5.297825,
+    "Saturn_dist": 10.401931
+  },
+  {
+    "date": "0003-10-21",
+    "Mars_dist": 0.825876,
+    "Jupiter_dist": 5.295768,
+    "Saturn_dist": 10.401147
+  },
+  {
+    "date": "0003-11-07",
+    "Mars_dist": 0.830521,
+    "Jupiter_dist": 5.295456,
+    "Saturn_dist": 10.400497
+  },
+  {
+    "date": "0003-11-21",
+    "Mars_dist": 0.827332,
+    "Jupiter_dist": 5.294006,
+    "Saturn_dist": 10.400436
+  },
+  {
+    "date": "0003-12-07",
+    "Mars_dist": 0.823273,
+    "Jupiter_dist": 5.290252,
+    "Saturn_dist": 10.40692
+  },
+  {
+    "date": "0003-12-21",
+    "Mars_dist": 0.815666,
+    "Jupiter_dist": 5.292287,
+    "Saturn_dist": 10.410732
+  }
+]
